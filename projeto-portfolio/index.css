@@ -38,6 +38,11 @@
     font-size: 19px;
 }
 
+#tablecell{
+    color: white;
+    background-color: black;
+}
+
 #fsd{
     margin-top: 50px;
     text-align: center;
