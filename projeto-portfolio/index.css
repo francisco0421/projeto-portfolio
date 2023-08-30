@@ -28,6 +28,23 @@
     font-size: 19px;
 }
 
+.formcontato{
+    font-size: 19px;
+}
+
+#inputtexto{
+    width: 300px;
+    height: 200px;
+}
+
+#inputnome{
+    width: 300px;
+}
+
+#inputemail{
+    width: 300px;
+}
+
 #mynameonheader{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
