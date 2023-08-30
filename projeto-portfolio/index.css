@@ -32,6 +32,23 @@
     font-size: 19px;
 }
 
+#buttonenviar{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+}
+
+#buttonenviar:hover{
+    background-color: white;
+    color: black;
+}
+
+#buttonenviar:active{
+    color: black;
+    background-color: lightgray;
+}
+
 #inputtexto{
     width: 300px;
     height: 200px;
