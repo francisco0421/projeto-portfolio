@@ -82,12 +82,15 @@
     text-align: center;
 }
 
-#headeritems{
+.headeritems{
     font-family: 'Courier New', Courier, monospace;
     font-size: 19px;
     color: white;
     display: inline;
-    text-align: right;
+}
+
+#menuoptions{
+    text-align: center;
 }
 
 #description{
@@ -125,12 +128,4 @@
     margin-right: auto;
     font-size: 19px;
     text-align: center;
-}
-
-a:hover{
-    color: orange;
-}
-
-a:active{
-    color:red;
 }
